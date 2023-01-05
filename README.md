@@ -1,4 +1,7 @@
-### Hi there 👋
+👋 Hi, I’m @MarcusOliveiraDev
+👀 I know how to program in php, javascript and C, but I also develop in html, css. I also develop websites in wordpress.
+🌱 I’m currently learning php, mySQL, java and kotlin.
+📫 You can find me through my email: contato@marcusoliveiradev.com.br
 
 <!--
 **MarcusOliveiraDev/MarcusOliveiraDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
