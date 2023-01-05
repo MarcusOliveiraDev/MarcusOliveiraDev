@@ -1,7 +1,10 @@
-<p>👋 Hi, I’m @MarcusOliveiraDev </p>
-<p>👀 I know how to program in php, javascript and C, but I also develop in html, css. I also develop websites in wordpress.</p>
-<p>🌱 I’m currently learning php, mySQL, java and kotlin.</p>
-<p>📫 You can find me through my email: contato@marcusoliveiradev.com.br</p>
+<ul>
+  <li>👋 Hi, I’m @MarcusOliveiraDev </li>
+  <li>💬 I know how to program in php, javascript and C, but I also develop in html, css. I also develop websites in wordpress.</li>
+  <li>🔭 My works: <a src="marcusoliveiradev.com.br">marcusoliveiradev.com.br</a></li>
+  <li>⚡ Visit my blog: <a src="blog.marcusoliveiradev.com.br">blog.marcusoliveiradev.com.br</a></li>
+  <li>📫 You can find me through my email: contato@marcusoliveiradev.com.br</li>
+</ul>
 
 <!--
 **MarcusOliveiraDev/MarcusOliveiraDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
