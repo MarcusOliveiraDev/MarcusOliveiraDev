@@ -1,9 +1,10 @@
+<h1>Marcus Vinicius de Oliveira</h1>
 <ul>
-  <li>👋 Hi, I’m @MarcusOliveiraDev </li>
-  <li>💬 I know how to program in php, javascript and C, but I also develop in html, css. I also develop websites in wordpress.</li>
-  <li>🔭 My works: <a src="marcusoliveiradev.com.br">marcusoliveiradev.com.br</a></li>
-  <li>⚡ Visit my blog: <a src="blog.marcusoliveiradev.com.br">blog.marcusoliveiradev.com.br</a></li>
-  <li>📫 You can find me through my email: contato@marcusoliveiradev.com.br</li>
+  <li>👋 Oi, eu sou @MarcusOliveiraDev</li>
+  <li>💬 Sei programar em php, javascript e C, mas também desenvolvo em html, css. Também desenvolvo sites em wordpress.</li>
+  <li>🔭 Meus trabalhos: <a href="marcusoliveiradev.com.br">marcusoliveiradev.com.br</a></li>
+  <li>⚡ Visite meu blog: <a href="blog.marcusoliveiradev.com.br">blog.marcusoliveiradev.com.br</a></li>
+  <li>📫 Você pode me encontrar através do meu e-mail: contato@marcusoliveiradev.com.br</li>
 </ul>
 
 <!--
