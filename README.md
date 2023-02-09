@@ -2,8 +2,8 @@
 <ul>
   <li>👋 Oi, eu sou @MarcusOliveiraDev</li>
   <li>💬 Sei programar em php, javascript e C, mas também desenvolvo em html, css. Também desenvolvo sites em wordpress.</li>
-  <li>🔭 Meus trabalhos: <a href="marcusoliveiradev.com.br">marcusoliveiradev.com.br</a></li>
-  <li>⚡ Visite meu blog: <a href="blog.marcusoliveiradev.com.br">blog.marcusoliveiradev.com.br</a></li>
+  <li>🔭 Meus trabalhos: <a href="https://marcusoliveiradev.com.br">marcusoliveiradev.com.br</a></li>
+  <li>⚡ Visite meu blog: <a href="https://blog.marcusoliveiradev.com.br">blog.marcusoliveiradev.com.br</a></li>
   <li>📫 Você pode me encontrar através do meu e-mail: contato@marcusoliveiradev.com.br</li>
 </ul>
 
